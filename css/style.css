@@ -1,0 +1,15 @@
+input {
+    width: 20px;
+}
+
+.border_below {
+    border-bottom: 5px solid black;
+}
+
+.border_right {
+    border-right: 5px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
